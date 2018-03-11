@@ -10,3 +10,4 @@
 
 ## Miscellaneous 
 - [Monte Carlo Approximation](https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/)
+- [No Free Lunch Theorem](https://blog.yani.io/no-free-lunch/)
