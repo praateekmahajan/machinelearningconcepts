@@ -15,3 +15,4 @@
 ## Basic Math concepts
 - [Monte Carlo Approximation](https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/)
 - [Positive Semidefinite Matrix](https://www.quora.com/What-is-a-positive-definite-matrix-in-laymans-terms)
+- [Heteroscedastic / Heteroscedasticity model](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
