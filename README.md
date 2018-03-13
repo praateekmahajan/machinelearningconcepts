@@ -9,6 +9,9 @@
  - [KL Divergence Forward and Reverse](https://wiseodd.github.io/techblog/2016/12/21/forward-reverse-kl/)
 
 ## Miscellaneous 
-- [Monte Carlo Approximation](https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/)
 - [No Free Lunch Theorem](https://blog.yani.io/no-free-lunch/)
 - [The VC (Vapnik-Chervonenkis\) Dimension](https://www.youtube.com/watch?v=Dc0sr0kdBVI&hd=1#t=3m24s)
+
+## Basic Math concepts
+- [Monte Carlo Approximation](https://theclevermachine.wordpress.com/2012/09/22/monte-carlo-approximations/)
+- [Positive Semidefinite Matrix](https://www.quora.com/What-is-a-positive-definite-matrix-in-laymans-terms)
