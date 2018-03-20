@@ -8,6 +8,10 @@
  - [Cross Entropy, KL Divergence](http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) 
  - [KL Divergence Forward and Reverse](https://wiseodd.github.io/techblog/2016/12/21/forward-reverse-kl/)
 
+## ML Algorithms
+
+- [Support Vector Machines Intuition](https://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work)
+
 ## Miscellaneous 
 - [No Free Lunch Theorem](https://blog.yani.io/no-free-lunch/)
 - [The VC (Vapnik-Chervonenkis\) Dimension](https://www.youtube.com/watch?v=Dc0sr0kdBVI&hd=1#t=3m24s)
