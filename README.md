@@ -10,7 +10,7 @@
 
 ## ML Algorithms
 
-- [Support Vector Machines Intuition](https://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work)
+- [Support Vector Machines Intuition](https://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work/254658#254658)
 
 ## Miscellaneous 
 - [No Free Lunch Theorem](https://blog.yani.io/no-free-lunch/)
