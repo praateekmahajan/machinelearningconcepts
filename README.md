@@ -8,6 +8,10 @@
  - [Cross Entropy, KL Divergence](http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) 
  - [KL Divergence Forward and Reverse](https://wiseodd.github.io/techblog/2016/12/21/forward-reverse-kl/)
 
+## DL Algorithms
+
+- [Generative Models (GANs)](https://blog.openai.com/generative-models/) 
+
 ## ML Algorithms
 
 - [Support Vector Machines Intuition](https://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work/254658#254658)
