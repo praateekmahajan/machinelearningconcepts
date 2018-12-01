@@ -2,7 +2,7 @@
 - [Variants of Gradient Descent](http://ruder.io/optimizing-gradient-descent/)
 ## Regularization
  - [L1  (lasso) for dummies](https://medium.com/mlreview/l1-norm-regularization-and-sparsity-explained-for-dummies-5b0e4be3938a)
-
+ - [Why it's fine for us to not apply Regularisation on Bias term](https://stats.stackexchange.com/a/167608)
 ## Loss Functions
 
  - [Cross Entropy, KL Divergence](http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) 
