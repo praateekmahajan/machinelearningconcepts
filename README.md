@@ -1,3 +1,6 @@
+## Data Related
+ - [Imbalanced Data](https://imbalanced-learn.org/en/stable/user_guide.html)
+
 ## Optimizers
 - [Variants of Gradient Descent](http://ruder.io/optimizing-gradient-descent/)
 ## Regularization
@@ -12,6 +15,7 @@
 
 - [Generative Models (GANs)](https://blog.openai.com/generative-models/) 
 - [Variational Auto Encoders (VAE)](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+
 ## ML Algorithms
 
 - [Support Vector Machines Intuition](https://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work/254658#254658)
