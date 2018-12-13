@@ -1,5 +1,6 @@
 ## Data Related
  - [Imbalanced Data](https://imbalanced-learn.org/en/stable/user_guide.html)
+ - [Statistical Test to check Independence of Variables](http://www.mash.dept.shef.ac.uk/Resources/MASH-WhatStatisticalTestHandout.pdf)
 
 ## Optimizers
 - [Variants of Gradient Descent](http://ruder.io/optimizing-gradient-descent/)
