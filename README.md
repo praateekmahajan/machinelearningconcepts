@@ -1,6 +1,7 @@
 ## Data Related
  - [Imbalanced Data](https://imbalanced-learn.org/en/stable/user_guide.html)
  - [Statistical Test to check Independence of Variables](http://www.mash.dept.shef.ac.uk/Resources/MASH-WhatStatisticalTestHandout.pdf)
+ - [Cross Validation/Forward Chaining for Time Series Data](https://stats.stackexchange.com/questions/14099/using-k-fold-cross-validation-for-time-series-model-selection)
 
 ## Optimizers
 - [Variants of Gradient Descent](http://ruder.io/optimizing-gradient-descent/)
